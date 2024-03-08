@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import logo from "../assets/logo.svg";
 import { NavLink } from "react-router-dom";
 import { FaShoppingCart } from "react-icons/fa";

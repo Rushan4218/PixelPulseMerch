@@ -1,6 +1,5 @@
 import React from "react";
-import { FaFacebook } from "react-icons/fa";
-
+  
 const Footer: React.FC = () => {
   return (
     <>
