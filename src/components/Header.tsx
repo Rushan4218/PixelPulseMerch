@@ -36,7 +36,7 @@ const SmallScreenHeader: React.FC = () => {
           )}
         </NavLink>
       </div>
-      <button onClick={() => {console.log("working"); dispatch(setShowMenu(true))}}>
+      <button onClick={() => dispatch(setShowMenu(true))}>
         <IoIosMenu className="text-4xl text-white" />
       </button>
     </header>
