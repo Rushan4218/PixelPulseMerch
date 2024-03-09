@@ -16,63 +16,69 @@ const Menu: React.FC = () => {
 
   return (
     <div
-      className={`fixed top-0 right-0 z-50 py-4 bg-nebula-900 flex flex-col w-64 h-screen ${
-        showMenu ?  "backdrop-blur-sm" : "translate-x-full"
+      className={`fixed top-0 z-50 bg-transparent flex justify-end h-screen w-screen ${
+        showMenu
+          ? "backdrop-blur-sm backdrop-brightness-50"
+          : "translate-x-full"
       } duration-300`}
-
-          
     >
-      <button
-        onClick={closeMenu}
-        className="text-nebula-100 text-4xl px-4 hover:cursor-pointer hover:text-red-500 active:scale-90 duration-200"
-      >
-        <IoClose />
-      </button>
-      <div
-        onClick={closeMenu}
-        className="flex flex-col menu-itm text-nebula-100 text-2xl font-bold"
-      >
-        <NavLink
-          to="/cart"
-          className="flex items-center gap-2 p-4 hover:bg-nebula-700"
-        >
-          <span>Cart</span>
-          <FaShoppingCart />
-        </NavLink>
-        <NavLink onClick={closeMenu} to="/" className="p-4 hover:bg-nebula-700">
-          Home
-        </NavLink>
-        <NavLink
+      <div className="bg-nebula-900 w-64 h-screen py-4">
+        <button
           onClick={closeMenu}
-          to="/shop"
-          className="p-4 hover:bg-nebula-700"
+          className="text-nebula-100 text-4xl px-4 hover:cursor-pointer hover:text-red-500 active:scale-90 duration-200"
         >
-          Shop
-        </NavLink>
-        <NavLink
+          <IoClose />
+        </button>
+        <div
           onClick={closeMenu}
-          to="/about"
-          className="p-4 hover:bg-nebula-700"
+          className="flex flex-col menu-itm text-nebula-100 text-2xl font-bold"
         >
-          About
-        </NavLink>
-        <NavLink
-          onClick={closeMenu}
-          to="/contact"
-          className="p-4 hover:bg-nebula-700"
-        >
-          Contact
-        </NavLink>
-      </div>
-      <div className="text-lg menu-itm text-nebula-100 mt-auto font-bold flex items-center justify-center gap-4">
-        <FaUser />
-        <NavLink onClick={closeMenu} to="/login">
-          Login
-        </NavLink>{" "}
-        |{" "}
-        <NavLink onClick={closeMenu} to="/signup">
-          Sign Up
-        </NavLink>
+          <NavLink
+            to="/cart"
+            className="flex items-center gap-2 p-4 hover:bg-nebula-700"
+          >
+            <span>Cart</span>
+            <FaShoppingCart />
+          </NavLink>
+          <NavLink
+            onClick={closeMenu}
+            to="/"
+            className="p-4 hover:bg-nebula-700"
+          >
+            Home
+          </NavLink>
+          <NavLink
+            onClick={closeMenu}
+            to="/shop"
+            className="p-4 hover:bg-nebula-700"
+          >
+            Shop
+          </NavLink>
+          <NavLink
+            onClick={closeMenu}
+            to="/about"
+            className="p-4 hover:bg-nebula-700"
+          >
+            About
+          </NavLink>
+          <NavLink
+            onClick={closeMenu}
+            to="/contact"
+            className="p-4 hover:bg-nebula-700"
+          >
+            Contact
+          </NavLink>
+        </div>
+        <div className="text-lg menu-itm text-nebula-100 mt-auto font-bold flex items-center justify-center gap-4">
+          <FaUser />
+          <NavLink onClick={closeMenu} to="/login">
+            Login
+          </NavLink>{" "}
+          |{" "}
+          <NavLink onClick={closeMenu} to="/signup">
+            Sign Up
+          </NavLink>
+        </div>
       </div>
     </div>
   );
