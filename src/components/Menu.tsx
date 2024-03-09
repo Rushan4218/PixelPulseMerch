@@ -19,7 +19,7 @@ const Menu: React.FC = () => {
       className={`fixed top-0 z-50 bg-transparent flex justify-end h-screen w-screen ${
         showMenu
           ? "backdrop-blur-sm backdrop-brightness-50"
-          : "backdrop-blur-0 backdrop-brightness-100 opacity-0 invisible cursor-none"
+          : "opacity-0 invisible cursor-none"
       } duration-300`}
     >
       <div
