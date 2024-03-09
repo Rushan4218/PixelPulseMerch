@@ -19,10 +19,14 @@ const Menu: React.FC = () => {
       className={`fixed top-0 z-50 bg-transparent flex justify-end h-screen w-screen ${
         showMenu
           ? "backdrop-blur-sm backdrop-brightness-50"
-          : "translate-x-full"
+          : "backdrop-blur-0 backdrop-brightness-100 opacity-0 invisible cursor-none"
       } duration-300`}
     >
-      <div className="bg-nebula-900 w-64 h-screen py-4">
+      <div
+        className={`bg-nebula-900 w-64 h-screen py-4 transition-transform duration-200 ease-in-out ${
+          showMenu ? "translate-x-0" : "translate-x-full"
+        } `}
+      >
         <button
           onClick={closeMenu}
           className="text-nebula-100 text-4xl px-4 hover:cursor-pointer hover:text-red-500 active:scale-90 duration-200"
