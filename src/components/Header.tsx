@@ -25,7 +25,7 @@ const SmallScreenHeader: React.FC = () => {
   const dispatch = useDispatch();
 
   return (
-    <header className="fixed z-40 top-0 bg-gradient-to-r from-nebula-600 to-nebula-500 w-full px-8 py-4 shadow-md shadow-gray-500 flex items-center justify-between">
+    <header className="fixed z-40 top-0 bg-gradient-to-r from-nebula-600 to-nebula-500 w-full px-8 py-4 shadow-lg flex items-center justify-between">
       <div className="flex items-center justify-between">
         <NavLink to="/" className="flex items-center gap-4">
           <img src={logo} alt="LOGO" className="size-16" />
@@ -45,7 +45,7 @@ const SmallScreenHeader: React.FC = () => {
 
 const LargeScreenHeader: React.FC = () => {
   return (
-    <header className="fixed z-40 top-0 bg-gradient-to-r from-nebula-600 to-nebula-500 w-full px-8 py-4 shadow-md shadow-gray-500 flex flex-col">
+    <header className="fixed z-40 top-0 bg-gradient-to-r from-nebula-600 to-nebula-500 w-full px-8 py-4 shadow-lg flex flex-col">
       <div className="flex items-center justify-between">
         <NavLink to="/" className="flex items-center gap-4">
           <img src={logo} alt="LOGO" className="size-16" />

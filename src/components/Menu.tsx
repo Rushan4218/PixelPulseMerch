@@ -22,7 +22,11 @@ const Menu: React.FC = () => {
           : "invisible cursor-none"
       } duration-300`}
     >
-      <div className={`bg-nebula-900 w-64 h-screen py-4 flex flex-col ${showMenu ? "" : "translate-x-full"} duration-300`}>
+      <div
+        className={`bg-nebula-900 w-64 h-screen py-4 flex flex-col ${
+          showMenu ? "" : "translate-x-full"
+        } duration-300 eaes-in-out`}
+      >
         <button
           onClick={closeMenu}
           className="text-nebula-100 text-4xl px-4 hover:cursor-pointer hover:text-red-500 active:scale-90 duration-200"
