@@ -1,6 +1,7 @@
 import React from "react";
 import { Hero } from "../components/Hero";
 import { Carousel } from "../components/Carousel";
+import { FeaturedProducts } from "../components/FeaturedProducts";
 
 const Home: React.FC = () => {
   return (
@@ -9,6 +10,7 @@ const Home: React.FC = () => {
         <Hero />
         <Carousel />
       </div>
+      <FeaturedProducts />
     </div>
   );
 };

@@ -3,503 +3,497 @@
     {
       "id": 1,
       "name": "Among Us Key Chain",
-      "url": "/images/among us keychain.jpeg",
+      "url": "/products/among us keychain.jpeg",
       "price": 600 
     },
     {
       "id": 2,
       "name": "Apex Legends Poster",
-      "url": "/images/apex legends poster.jpg",
+      "url": "/products/apex legends poster.jpg",
       "price": 200 
     },
     {
       "id": 3,
       "name": "Assassin's Creed Men's T-Shirt",
-      "url": "/images/Assassin's Creed men's tshirt.jpg",
+      "url": "/products/Assassin's Creed men's tshirt.jpg",
       "price": 1400 
     },
     {
       "id": 4,
       "name": "Black Clover Mereoleona Figure",
-      "url": "/images/Black Clover Mereoleona Figure.png",
+      "url": "/products/Black Clover Mereoleona Figure.png",
       "price": 2000 
     },
     {
       "id": 5,
       "name": "Choose Your Weapon Hoodie",
-      "url": "/images/Choose your weapon hoodie.jpg",
+      "url": "/products/Choose your weapon hoodie.jpg",
       "price": 1800 
     },
     {
       "id": 6,
       "name": "City Shirts Men's Tee",
-      "url": "/images/City Shirts Mens T-shirt Tee.png",
+      "url": "/products/City Shirts Mens T-Shirt Tee.png",
       "price": 800 
     },
     {
       "id": 7,
       "name": "Classic Gamer Controller Hat",
-      "url": "/images/classic gamer controller hat.jpeg",
+      "url": "/products/classic gamer controller hat.jpeg",
       "price": 500 
     },
     {
       "id": 8,
       "name": "Call of Duty Men's T-Shirt",
-      "url": "/images/COD Mens' T-Shirt.png",
+      "url": "/products/COD Mens' T-Shirt.png",
       "price": 800
     },
     {
       "id": 9,
       "name": "Call of Duty Choose Your Weapon T-Shirt",
-      "url": "/images/COD mens' T-shirt-2.jpg",
+      "url": "/products/COD mens' T-shirt-2.jpg",
       "price": 800
     },
     {
       "id": 10,
       "name": "Eat Sleep Game Hoodie",
-      "url": "/images/eat sleep game hoodie.png",
+      "url": "/products/eat sleep game hoodie.png",
       "price": 1600
     },
     {
       "id": 11,
       "name": "Epic Game Backpack",
-      "url": "/images/epic game backpack.jpg",
+      "url": "/products/epic game backpack.jpg",
       "price": 3000
     },
     {
       "id": 12,
       "name": "Gamer fuel Mug",
-      "url": "/images/gamer fuel mug.jpeg",
+      "url": "/products/gamer fuel mug.jpeg",
       "price": 900
     },
     {
       "id": 13,
       "name": "Gamer Hoodie",
-      "url": "/images/gamer hoodie.jpeg",
+      "url": "/products/gamer hoodie.jpeg",
       "price": 1500
     },
     {
       "id": 14,
       "name": "Gamer Mode On Hat",
-      "url": "/images/gamer mode on hat.jpg",
+      "url": "/products/gamer mode on hat.jpg",
       "price": 400
     },
     {
       "id": 15,
       "name": "Gamer Sticker",
-      "url": "/images/gamer sticker.jpeg",
+      "url": "/products/gamer sticker.jpeg",
       "price": 50 
     },
     {
       "id": 16,
       "name": "Gaming Legend Mug",
-      "url": "/images/gaming legend mug.jpeg",
+      "url": "/products/gaming legend mug.jpeg",
       "price": 800
     },
     {
       "id": 17,
       "name": "Genshin Impact Backpack",
-      "url": "/images/genshin impact backpack.jpg",
+      "url": "/products/genshin impact backpack.jpg",
       "price": 2000
     },
     {
       "id": 18,
       "name": "I'm a gamer Cap",
-      "url": "/images/I'm a gamer cap.jpeg",
+      "url": "/products/I'm a gamer cap.jpeg",
       "price": 500
     },
     {
       "id": 19,
       "name": "League of Legends Backpack",
-      "url": "/images/league of legends backpack.webp",
+      "url": "/products/league of legends backpack.webp",
       "price": 2200
     },
     {
       "id": 20,
       "name": "League of Legends Poster",
-      "url": "/images/league of legends poster.jpeg",
+      "url": "/products/league of legends poster.jpeg",
       "price": 300
     },
     {
       "id": 21,
       "name": "Mario Keychain",
-      "url": "/images/mario keychain.jpeg",
+      "url": "/products/mario keychain.jpeg",
       "price": 200 
     },
     {
       "id": 22,
       "name": "McFarlane - Witcher Gaming Figure",
-      "url": "/images/McFarlane - Witcher Gaming Figure.png",
+      "url": "/products/McFarlane - Witcher Gaming Figure.png",
       "price": 3000
     },
     {
       "id": 23,
       "name": "Minecraft Backpack",
-      "url": "/images/minecraft backpack 2.jpeg",
+      "url": "/products/minecraft backpack 2.jpeg",
       "price": 1800
     },
     {
       "id": 24,
       "name": "Minecraft Pickaxe Backpack",
-      "url": "/images/minecraft backpack.jpeg",
+      "url": "/products/minecraft backpack.jpeg",
       "price": 2700
     },
     {
       "id": 25,
       "name": "Mineraft Blaze Action Figure",
-      "url": "/images/minecraft blaze action figure.jpeg",
+      "url": "/products/minecraft blaze action figure.jpeg",
       "price": 5000
     },
     {
       "id": 26,
       "name": "Minecraft Creeper Action Figure",
-      "url": "/images/minecraft creeper action figure.jpeg",
+      "url": "/products/minecraft creeper action figure.jpeg",
       "price": 1400
     },
     {
       "id": 27,
       "name": "Minecraft Creeper Hoodie",
-      "url": "/images/Minecraft creeper hoodie.jpeg",
+      "url": "/products/Minecraft creeper hoodie.jpeg",
       "price": 1200 
     },
     {
       "id": 28,
       "name": "Minecraft Creeper Mug.jpeg",
-      "url": "/images/minecraft creeper mug.jpeg",
+      "url": "/products/minecraft creeper mug.jpeg",
       "price": 300
     },
     {
       "id": 29,
       "name": "Minecraft Creeper Phone Case",
-      "url": "/images/minecraft creeper phone case.jpeg",
+      "url": "/products/minecraft creeper phone case.jpeg",
       "price": 500
     },
     {
       "id": 30,
       "name": "Minecraft Creeper Sticker",
-      "url": "/images/minecraft creeper sticker.jpeg",
+      "url": "/products/minecraft creeper sticker.jpeg",
       "price": 50
     },
     {
       "id": 31,
       "name": "Minecraft gold Pickaxe Gold Ore Coffee Mug",
-      "url": "/images/Minecraft Gold Pickaxxe Gold Ore Coffee Mug.png",
+      "url": "/products/Minecraft Gold Pickaxe Gold Ore Coffee Mug.png",
       "price": 600
     },
     {
       "id": 32,
       "name": "Minecraft Laptop Sticker Set",
-      "url": "/images/minecraft laptop sticker set.jpeg",
+      "url": "/products/minecraft laptop sticker set.jpeg",
       "price": 300
     },
     {
       "id": 33,
       "name": "Minecraft Mug Pickaxe and Sword",
-      "url": "/images/minecraft mug pickaxe and sword.jpeg",
+      "url": "/products/minecraft mug pickaxe and sword.jpeg",
       "price":400
     },
     {
       "id": 34,
       "name": "Minecraft Home Screen Phone Case ",
-      "url": "/images/minecraft phone case 2.jpeg",
+      "url": "/products/minecraft phone case 2.jpeg",
       "price": 400
     },
     {
       "id": 35,
       "name": "Minecraft Steeve Phone Case",
-      "url": "/images/minecraft phone case.jpeg",
+      "url": "/products/minecraft phone case.jpeg",
       "price": 400
     },
     {
       "id": 36,
       "name": "Minecraft Poster",
-      "url": "/images/minecraft poster.jpg",
+      "url": "/products/minecraft poster.jpg",
       "price": 300
     },
     {
       "id": 37,
       "name": "Minecraft Set of 6 Keychain",
-      "url": "/images/minecraft set of 6 keychain.jpeg",
+      "url": "/products/minecraft set of 6 keychain.jpeg",
       "price": 900
     },
     {
       "id": 38,
       "name": "Minecraft Steeve Action Figure",
-      "url": "/images/minecraft steeve action figure.jpeg",
+      "url": "/products/minecraft steeve action figure.jpeg",
       "price": 2000 
     },
     {
       "id": 39,
       "name": "Minecraft Sword Keychain",
-      "url": "/images/minecraft sword keychain.jpeg",
+      "url": "/products/minecraft sword keychain.jpeg",
       "price": 200
     },
     {
       "id": 40,
       "name": "Minecraft T-Shirt",
-      "url": "/images/Minecrat Tshirt.jpg",
+      "url": "/products/Minecraft Tshirt.jpg",
       "price": 800
     },
     {
       "id": 41,
       "name": "Minecraft Zombie Mug",
-      "url": "/images/minecraft zombie mug.jpeg",
+      "url": "/products/minecraft zombie mug.jpeg",
       "price": 400
     },
     {
       "id": 42,
       "name": "Miniature Nintendo Switch Keychain",
-      "url": "/images/miniature nintendo switch keychain.jpeg",
+      "url": "/products/miniature nintendo switch keychain.jpeg",
       "price": 200
     },
     {
       "id": 43,
       "name": "Mobile Legends Cute Phone Case",
-      "url": "/images/mobile legend phone case cute.jpeg",
+      "url": "/products/mobile legend phone case cute.jpeg",
       "price": 700
     },
     {
       "id": 44,
       "name": "Mobile Legends Phone Cases",
-      "url": "/images/mobile legend phone cases.jpeg",
+      "url": "/products/mobile legend phone cases.jpeg",
       "price": 1200
     },
     {
       "id": 45,
       "name": "Mobile Legends Backpack",
-      "url": "/images/mobile legends backpack.jpeg",
+      "url": "/products/mobile legends backpack.jpeg",
       "price": 3200
     },
     {
       "id": 46,
       "name": "Mobile Legends Hayabusa Phone Case",
-      "url": "/images/mobile legends phone case hayabusa.jpeg",
+      "url": "/products/mobile legends phone case hayabusa.jpeg",
       "price": 1000
     },
     {
       "id": 47,
       "name": "Mobile Legends Poster",
-      "url": "/images/mobile legends posters.webp",
+      "url": "/products/mobile legends posters.webp",
       "price": 400
     },
     {
       "id": 48,
       "name": "Mobile Legends Saber Action Figure",
-      "url": "/images/mobile legends saber action figure.jpeg",
+      "url": "/products/mobile legends saber action figure.jpeg",
       "price": 3000
     },
     {
       "id": 49,
       "name": "Mobile Legends Sticker Set",
-      "url": "/images/mobile legends sticker set.jpeg",
+      "url": "/products/mobile legends sticker set.jpeg",
       "price": 300
     },
     {
       "id": 50,
       "name": "Mobile Legends T-Shirt",
-      "url": "/images/mobile legends T-shirt.jpg",
+      "url": "/products/mobile legends T-shirt.jpg",
       "price": 900
     },
     {
       "id": 51,
       "name": "Ninja Go Backpack For Children",
-      "url": "/images/ninjago backpack for children.jpg",
+      "url": "/products/ninjago backpack for children.jpg",
       "price": 2000
     },
     {
       "id": 52,
       "name": "Pacman Poster",
-      "url": "/images/pacman poster.webp",
+      "url": "/products/pacman poster.webp",
       "price": 400
     },
     {
       "id": 53,
       "name": "Playstation Keychain",
-      "url": "/images/playstation keychian.jpeg",
+      "url": "/products/playstation keychian.jpeg",
       "price": 500
     },
     {
       "id": 54,
       "name": "PUBG Action Figure",
-      "url": "/images/pubg action figure.jpeg",
+      "url": "/products/pubg action figure.jpeg",
       "price": 1200
     },
     {
       "id": 55,
       "name": "PUBG Cap",
-      "url": "/images/pubg cap.jpeg",
+      "url": "/products/pubg cap.jpeg",
       "price": 500
     },
     {
       "id": 56,
       "name": "PUBG Poster.jpeg",
-      "url": "/images/PUBG poster.jpeg",
+      "url": "/products/PUBG poster.jpeg",
       "price": 600 
     },
     {
       "id": 57,
       "name": "PUBG Sticker",
-      "url": "/images/pubg sticker.jpeg",
+      "url": "/products/pubg sticker.jpeg",
       "price": 50
     },
     {
       "id": 58,
       "name": "Retri Gaming Phone Case",
-      "url": "/images/retri gaming phone case.jpeg",
+      "url": "/products/retri gaming phone case.jpeg",
       "price": 600
     },
     {
       "id": 59,
       "name": "Retro Game Sticker Pack",
-      "url": "/images/retro game sticker pack.jpg",
+      "url": "/products/retro game sticker pack.jpg",
       "price": 400
     },
     {
       "id": 60,
       "name": "Retro Gamer Cap",
-      "url": "/images/retro gamer cap.webp",
+      "url": "/products/retro gamer cap.webp",
       "price": 600
     },
     {
       "id": 61,
       "name": "Retro Gaming Mug",
-      "url": "/images/retro gaming mug.jpeg",
+      "url": "/products/retro gaming mug.jpeg",
       "price": 800
     },
     {
       "id": 62,
       "name": "Roblox Hoodie",
-      "url": "/images/roblox hoodie.jpeg",
+      "url": "/products/roblox hoodie.jpeg",
       "price": 2000
     },
     {
       "id": 63,
       "name": "Sony Playstation Men's Shirt",
-      "url": "/images/Sony Playstation Mens' Shirt.png",
+      "url": "/products/Sony Playstation Mens' Shirt.png",
       "price": 800
     },
     {
       "id": 64,
       "name": "Space Invaders T-Shirt",
-      "url": "/images/Space invaders T-shirt.jpg",
+      "url": "/products/Space invaders T-shirt.jpg",
       "price": 1000
     },
     {
       "id": 65,
       "name": "Super Mario 4-inch Action Figure",
-      "url": "/images/super mario 4 inch action figure.webp",
+      "url": "/products/super mario 4 inch action figure.webp",
       "price": 4000
     },
     {
       "id": 66,
       "name": "Super Mario Cup",
-      "url": "/images/super mario cup.jpeg",
+      "url": "/products/super mario cup.jpeg",
       "price": 600
     },
     {
       "id": 67,
       "name": "Valorant Action Figure",
-      "url": "/images/valorant action figures.jpeg",
+      "url": "/products/valorant action figures.jpeg",
       "price": 4000
     },
     {
       "id": 68,
       "name": "Valorant Gun Keychain",
-      "url": "/images/valorant gun keychain.jpeg",
+      "url": "/products/valorant gun keychain.jpeg",
       "price": 300
     },
     {
       "id": 69,
       "name": "Valorant Hoodie",
-      "url": "/images/valorant hoodie.jpeg",
+      "url": "/products/valorant hoodie.jpeg",
       "price": 3000
     },
     {
       "id": 70,
       "name": "Valorant Keychain",
-      "url": "/images/valorant keychain.jpeg",
+      "url": "/products/valorant keychain.jpeg",
       "price": 300
     },
     {
       "id": 71,
       "name": "Valorant Jett Mug",
-      "url": "/images/valorant mug jett.jpeg",
+      "url": "/products/valorant mug jett.jpeg",
       "price": 600 
     },
     {
       "id": 72,
       "name": "Valorant Yoru Mug",
-      "url": "/images/valorant mug yoru.jpeg",
+      "url": "/products/valorant mug yoru.jpeg",
       "price": 600
     },
     {
       "id": 73,
       "name": "Valorant Pheonix Action Figure",
-      "url": "/images/valorant pheonix action figure.jpeg",
+      "url": "/products/valorant pheonix action figure.jpeg",
       "price": 3000
     },
     {
       "id": 74,
       "name": "Valorant Killjoy Phone Case",
-      "url": "/images/valorant phone case killjoy.jpeg",
+      "url": "/products/valorant phone case killjoy.jpeg",
       "price": 400 
     },
     {
       "id": 75,
       "name": "Valorant Phone Case",
-      "url": "/images/valorant phone cases.jpeg",
+      "url": "/products/valorant phone cases.jpeg",
       "price": 1100
     },
     {
       "id": 76,
       "name": "Valorant Posters",
-      "url": "/images/valorant posters.jpeg",
+      "url": "/products/valorant posters.jpeg",
       "price": 200
     },
     {
       "id": 77,
       "name": "Valorant Sticker Set",
-      "url": "/images/valorant sticker set.webp",
+      "url": "/products/valorant sticker set.webp",
       "price": 400
     },
     {
       "id": 78,
       "name": "Valorant Viper Phone Case",
-      "url": "/images/valorant viper phone case.jpeg",
+      "url": "/products/valorant viper phone case.jpeg",
       "price": 1200
     },
     {
       "id": 79,
       "name": "Video Game Controller Keychain",
-      "url": "/images/video game controller keychain.jpeg",
+      "url": "/products/video game controller keychain.jpeg",
       "price": 900
     },
     {
       "id": 80,
-      "name": "Video Game Controller Keychain",
-      "url": "/images/video game controller keychain.jpeg",
-      "price": 900
-    },
-    {
-      "id": 81,
       "name": "World of Warcraft Men's Gamer Zip-up Hoodie",
-      "url": "/images/World of warcraft men's gamer zip-up hoodie.jpg",
+      "url": "/products/World of warcraft men's gamer zip-up hoodie.jpg",
       "price": 3200
     },
     {
-      "id": 82,
+      "id": 81,
       "name": "XBOX Miniature Games Keychain",
-      "url": "/images/xbox miniature games keychain.webp",
+      "url": "/products/xbox miniature games keychain.webp",
       "price": 400 
     },
     {
-      "id": 83,
+      "id": 82,
       "name": "XBOX Mug and Socks",
-      "url": "/images/XBOX Mug and Socks.png",
+      "url": "/products/XBOX Mug and Socks.png",
       "price": 1200
     },
     {
-      "id": 84,
+      "id": 83,
       "name": "XBOX Backpack",
       "url": "XBOX packpack.jpg",
       "price": 3000
