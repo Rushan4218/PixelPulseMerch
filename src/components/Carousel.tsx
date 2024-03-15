@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import mereoleona from "../assets/Black Clover Mereoleona Figure.png";
-import mugsock from "../assets/XBOX Mug and Socks.png";
-import PSTee from "../assets/Sony Playstation Mens' Shirt.png";
-import CODTee from "../assets/COD Mens' T-Shirt.png";
+import mereoleona from "../assets/products/Black Clover Mereoleona Figure.png";
+import mugsock from "../assets/products/XBOX Mug and Socks.png";
+import PSTee from "../assets/products/Sony Playstation Mens' Shirt.png";
+import CODTee from "../assets/products/COD Mens' T-Shirt.png";
 
 import { IoIosArrowBack, IoIosArrowForward } from "react-icons/io";
 

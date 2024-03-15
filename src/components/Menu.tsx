@@ -77,8 +77,7 @@ const Menu: React.FC = () => {
           <FaUser />
           <NavLink onClick={closeMenu} to="/login">
             Login
-          </NavLink>{" "}
-          |{" "}
+          </NavLink>
           <NavLink onClick={closeMenu} to="/signup">
             Sign Up
           </NavLink>
