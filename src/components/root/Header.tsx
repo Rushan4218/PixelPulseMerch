@@ -1,12 +1,12 @@
 import React from "react";
-import logo from "../assets/logo.svg";
+import logo from "../../assets/logo.svg";
 import { NavLink } from "react-router-dom";
 import { FaShoppingCart } from "react-icons/fa";
 import { IoIosMenu } from "react-icons/io";
 import { useMediaQuery } from "react-responsive";
 import { Menu } from "./Menu";
 import { useDispatch } from "react-redux";
-import { setShowMenu } from "../redux/menuSlice";
+import { setShowMenu } from "../../redux/menuSlice";
 
 const Header: React.FC = () => {
   const isSmall = useMediaQuery({ query: "(max-width: 768px)" });

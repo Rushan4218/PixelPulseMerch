@@ -3,8 +3,8 @@ import { FaShoppingCart, FaUser } from "react-icons/fa";
 import { IoClose } from "react-icons/io5";
 import { useDispatch, useSelector } from "react-redux";
 import { NavLink } from "react-router-dom";
-import { RootState } from "../redux/store";
-import { setShowMenu } from "../redux/menuSlice";
+import { RootState } from "../../redux/store";
+import { setShowMenu } from "../../redux/menuSlice";
 
 const Menu: React.FC = () => {
   const showMenu = useSelector((state: RootState) => state.menuState.showMenu);

@@ -1,13 +1,13 @@
 import React from "react";
-import logo from "../assets/logo.svg";
+import logo from "../../assets/logo.svg";
 import { NavLink } from "react-router-dom";
 
-import esewaLogo from "../assets/esewa.png";
-import khaltiLogo from "../assets/khalti-logo.png";
-import masterCardLogo from "../assets/mastercard-logo.png";
-import visaLogo from "../assets/Visa-Logo.png";
-import paypalLogo from "../assets/paypal-logo.png";
-import imepayLogo from "../assets/imepay-logo.png";
+import esewaLogo from "../../assets/esewa.png";
+import khaltiLogo from "../../assets/khalti-logo.png";
+import masterCardLogo from "../../assets/mastercard-logo.png";
+import visaLogo from "../../assets/Visa-Logo.png";
+import paypalLogo from "../../assets/paypal-logo.png";
+import imepayLogo from "../../assets/imepay-logo.png";
 import { FiFacebook, FiInstagram } from "react-icons/fi";
 import { SiWhatsapp } from "react-icons/si";
 import { RiTwitterXLine } from "react-icons/ri";

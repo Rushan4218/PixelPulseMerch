@@ -1,7 +1,7 @@
 import React from "react";
-import { Hero } from "../components/Hero";
-import { Carousel } from "../components/Carousel";
-import { FeaturedProducts } from "../components/FeaturedProducts";
+import { Hero } from "../components/home/Hero";
+import { Carousel } from "../components/home/Carousel";
+import { FeaturedProducts } from "../components/home/FeaturedProducts";
 
 const Home: React.FC = () => {
   return (
